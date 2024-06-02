@@ -26,6 +26,8 @@
 - **VSCode**: Code editor used for development.
 - **CSS**: Styling the application.
 
+- you can view the app here=https://665c9e53b78f70d58b6c2b3c--splendorous-eclair-093a94.netlify.app/
+
 ## Contributions
 - Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
